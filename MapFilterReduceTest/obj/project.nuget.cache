@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k/69wIuRp4YCUY+fpSh8tqk+BwtwQGTGe4DZ1JbSYpvD6aj6RT5em03J+6pJun9qc+Nc3fUnP097yoHGzDwCOQ==",
+  "success": true,
+  "projectFilePath": "D:\\MapFilterReduce\\MapFilterReduceTest\\MapFilterReduceTest.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aswin\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

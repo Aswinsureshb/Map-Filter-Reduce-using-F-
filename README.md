@@ -1,1 +1,1 @@
-# Test1Programming-Paradigms
+# Map Filter Reduce using F#
